@@ -5,3 +5,5 @@
 - Early identification of diseases ensures the health and quality of these plants, which is crucial for producing effective herbal medicines.
 - Additionally, this project seeks to raise awareness about plant health and promote sustainable harvesting practices to prevent the over-exploitation of valuable herbs.
 
+- Model : https://drive.google.com/file/d/1gbsdwjKtG0JxRCnoV7G6p6caM0TuzsfY/view?usp=drive_link
+
